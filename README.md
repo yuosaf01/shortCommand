@@ -1,8 +1,8 @@
 # shortCommand
 
 
-### How to use ? \n\n\n
+### How to use ? <br><br><br>
 
-/path/to/file/shortCommand.sh \n
-Command: [enter your command] \n
-Shortcut: [enter your shortcut] \n
+/path/to/file/shortCommand.sh <br>
+Command: [enter your command] <br>
+Shortcut: [enter your shortcut] <br>
