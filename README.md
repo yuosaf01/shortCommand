@@ -1,7 +1,7 @@
 # shortCommand
 
 
-### How to use ? <br><br>
+### How to use ? <br>
 
 /path/to/file/shortCommand.sh <br>
 Command: [enter your command] <br>
